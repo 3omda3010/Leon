@@ -244,7 +244,7 @@ main {
     z-index: -1;
     width: 100%;
     height: calc(100vh - 60px);
-    background-image: url('imagess\mountains.jpg');
+    background-image: url("../imagess/mountains.jpg");
     background-size: cover;
     position: relative;
 }
